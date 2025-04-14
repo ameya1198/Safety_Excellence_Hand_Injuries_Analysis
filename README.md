@@ -4,6 +4,7 @@ The Safety Excellence Group (S.E.G.) aims to reduce workplace injuries. A major 
 Using data from OSHA’s Severe Injury Reports, we were tasked with analyzing how most hand injuries occur and extracting meaningful insights.
 
 ** Collaborators **
+
 Arya Mane
 
 Ameya Phansalkar

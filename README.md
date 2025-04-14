@@ -3,6 +3,11 @@ Problem Statement:
 The Safety Excellence Group (S.E.G.) aims to reduce workplace injuries. A major focus for their clients is hand injury prevention, particularly within the manufacturing sector.
 Using data from OSHA’s Severe Injury Reports, we were tasked with analyzing how most hand injuries occur and extracting meaningful insights.
 
+** Collaborators **
+Arya Mane
+
+Ameya Phansalkar
+
 Objectives:
 Manipulate and filter OSHA data to isolate hand-related injuries in manufacturing (based on NAICS codes). The codes are provided in another csv. 
 Analyze common causes and patterns in these injuries.
@@ -25,3 +30,5 @@ How to Use:
 Clone the repo,
 Open the notebook or dashboard folder,
 Launch the dashboard or explore the insights through code/notebooks.
+
+

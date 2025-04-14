@@ -1,1 +1,1 @@
-# Safet_Excellence_Hand_Injuries_Analysis
+# Safety_Excellence_Hand_Injuries_Analysis
